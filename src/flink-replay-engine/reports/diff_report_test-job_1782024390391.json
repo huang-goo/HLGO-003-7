@@ -1,0 +1,17 @@
+{
+  "jobId": "test-job",
+  "baselineJobId": "baseline-job",
+  "generatedTime": 1782024390389,
+  "totalComparedRecords": 712,
+  "avgScoreDiff": 0.0,
+  "maxScoreDiff": 0.0,
+  "minScoreDiff": 0.0,
+  "anomalyCountDiff": 0,
+  "precisionDiff": 0.0,
+  "recallDiff": 0.0,
+  "diffRecords": [],
+  "insights": [
+    "两次运行的异常得分高度一致，模型参数变化对整体结果影响较小。",
+    "检测到的异常点数量相同，模型的异常判定结果一致。"
+  ]
+}
